@@ -1,0 +1,72 @@
+{
+  "rub": {
+    "name": "рубль",
+    "min_unit": 100,
+    "min_unit_label": "копейка"
+  },
+  "usd": {
+    "name": "доллар",
+    "min_unit": 100,
+    "min_unit_label": "цент"
+  },
+  "eur": {
+    "name": "евро",
+    "min_unit": 100,
+    "min_unit_label": "евроцент"
+  },
+  "cny": {
+    "name": "юань",
+    "min_unit": 100,
+    "min_unit_label": "фэнь"
+  },
+  "mnt": {
+    "name": "Монгольский тугрик",
+    "min_unit": 100,
+    "min_unit_label": "манга"
+  },
+  "thb": {
+    "name": "тайский бат",
+    "min_unit": 100,
+    "min_unit_label": "сатанг"
+  },
+  "usdt": {
+    "name": "tether usd",
+    "min_unit": 100000000,
+    "min_unit_label": "satoshi"
+  },
+  "btc": {
+    "name": "bitcoin",
+    "min_unit": 100000000,
+    "min_unit_label": "satoshi"
+  },
+  "eth": {
+    "name": "ethereum",
+    "min_unit": 1000000000,
+    "min_unit_label": "gwei"
+  },
+  "trx": {
+    "name": "trx",
+    "min_unit": 1000000,
+    "min_unit_label": "sun"
+  },
+  "doge": {
+    "name": "doge coin",
+    "min_unit": 100000000,
+    "min_unit_label": "koinu"
+  },
+  "sol": {
+    "name": "solana",
+    "min_unit": 1000000000,
+    "min_unit_label": "lamport"
+  },
+  "pepe": {
+    "name": "ethereum",
+    "min_unit": 1000000000,
+    "min_unit_label": "gwei"
+  },
+  "ton": {
+    "name": "toincoin",
+    "min_unit": 1000000000,
+    "min_unit_label": "nanoton"
+  },
+}
