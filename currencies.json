@@ -38,7 +38,7 @@
   {
     "currency_code": "usdt",
     "name": "tether usd",
-    "min_unit_value": 100000000,
+    "min_unit_value": 1000000,
     "min_unit_name": "satoshi"
   },
   {
