@@ -1,72 +1,90 @@
-{
-  "rub": {
+Преобразованный JSON имеет следующий вид:
+
+[
+  {
+    "currency_code": "rub",
     "name": "рубль",
     "min_unit_value": 100,
     "min_unit_name": "копейка"
   },
-  "usd": {
+  {
+    "currency_code": "usd",
     "name": "доллар",
     "min_unit_value": 100,
     "min_unit_name": "цент"
   },
-  "eur": {
+  {
+    "currency_code": "eur",
     "name": "евро",
     "min_unit_value": 100,
     "min_unit_name": "евроцент"
   },
-  "cny": {
+  {
+    "currency_code": "cny",
     "name": "юань",
     "min_unit_value": 100,
     "min_unit_name": "фэнь"
   },
-  "mnt": {
+  {
+    "currency_code": "mnt",
     "name": "Монгольский тугрик",
     "min_unit_value": 100,
     "min_unit_name": "манга"
   },
-  "thb": {
+  {
+    "currency_code": "thb",
     "name": "тайский бат",
     "min_unit_value": 100,
     "min_unit_name": "сатанг"
   },
-  "usdt": {
+  {
+    "currency_code": "usdt",
     "name": "tether usd",
     "min_unit_value": 100000000,
     "min_unit_name": "satoshi"
   },
-  "btc": {
+  {
+    "currency_code": "btc",
     "name": "bitcoin",
     "min_unit_value": 100000000,
     "min_unit_name": "satoshi"
   },
-  "eth": {
+  {
+    "currency_code": "eth",
     "name": "ethereum",
     "min_unit_value": 1000000000,
     "min_unit_name": "gwei"
   },
-  "trx": {
+  {
+    "currency_code": "trx",
     "name": "trx",
     "min_unit_value": 1000000,
     "min_unit_name": "sun"
   },
-  "doge": {
+  {
+    "currency_code": "doge",
     "name": "doge coin",
     "min_unit_value": 100000000,
     "min_unit_name": "koinu"
   },
-  "sol": {
+  {
+    "currency_code": "sol",
     "name": "solana",
     "min_unit_value": 1000000000,
     "min_unit_name": "lamport"
   },
-  "pepe": {
-    "name": "ethereum",
+  {
+    "currency_code": "pepe",
+    "name": "pepe",
     "min_unit_value": 1000000000,
     "min_unit_name": "gwei"
   },
-  "ton": {
+  {
+    "currency_code": "ton",
     "name": "toincoin",
     "min_unit_value": 1000000000,
     "min_unit_name": "nanoton"
-  },
-}
+  }
+]
+
+￼
