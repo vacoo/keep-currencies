@@ -1,72 +1,72 @@
 {
   "rub": {
     "name": "рубль",
-    "min_unit": 100,
-    "min_unit_label": "копейка"
+    "min_unit_value": 100,
+    "min_unit_name": "копейка"
   },
   "usd": {
     "name": "доллар",
-    "min_unit": 100,
-    "min_unit_label": "цент"
+    "min_unit_value": 100,
+    "min_unit_name": "цент"
   },
   "eur": {
     "name": "евро",
-    "min_unit": 100,
-    "min_unit_label": "евроцент"
+    "min_unit_value": 100,
+    "min_unit_name": "евроцент"
   },
   "cny": {
     "name": "юань",
-    "min_unit": 100,
-    "min_unit_label": "фэнь"
+    "min_unit_value": 100,
+    "min_unit_name": "фэнь"
   },
   "mnt": {
     "name": "Монгольский тугрик",
-    "min_unit": 100,
-    "min_unit_label": "манга"
+    "min_unit_value": 100,
+    "min_unit_name": "манга"
   },
   "thb": {
     "name": "тайский бат",
-    "min_unit": 100,
-    "min_unit_label": "сатанг"
+    "min_unit_value": 100,
+    "min_unit_name": "сатанг"
   },
   "usdt": {
     "name": "tether usd",
-    "min_unit": 100000000,
-    "min_unit_label": "satoshi"
+    "min_unit_value": 100000000,
+    "min_unit_name": "satoshi"
   },
   "btc": {
     "name": "bitcoin",
-    "min_unit": 100000000,
-    "min_unit_label": "satoshi"
+    "min_unit_value": 100000000,
+    "min_unit_name": "satoshi"
   },
   "eth": {
     "name": "ethereum",
-    "min_unit": 1000000000,
-    "min_unit_label": "gwei"
+    "min_unit_value": 1000000000,
+    "min_unit_name": "gwei"
   },
   "trx": {
     "name": "trx",
-    "min_unit": 1000000,
-    "min_unit_label": "sun"
+    "min_unit_value": 1000000,
+    "min_unit_name": "sun"
   },
   "doge": {
     "name": "doge coin",
-    "min_unit": 100000000,
-    "min_unit_label": "koinu"
+    "min_unit_value": 100000000,
+    "min_unit_name": "koinu"
   },
   "sol": {
     "name": "solana",
-    "min_unit": 1000000000,
-    "min_unit_label": "lamport"
+    "min_unit_value": 1000000000,
+    "min_unit_name": "lamport"
   },
   "pepe": {
     "name": "ethereum",
-    "min_unit": 1000000000,
-    "min_unit_label": "gwei"
+    "min_unit_value": 1000000000,
+    "min_unit_name": "gwei"
   },
   "ton": {
     "name": "toincoin",
-    "min_unit": 1000000000,
-    "min_unit_label": "nanoton"
+    "min_unit_value": 1000000000,
+    "min_unit_name": "nanoton"
   },
 }
