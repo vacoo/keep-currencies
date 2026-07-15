@@ -82,5 +82,17 @@
     "name": "toincoin",
     "min_unit_value": 1000000000,
     "min_unit_name": "nanoton"
+  },
+  {
+    "currency_code": "azn",
+    "name": "манат",
+    "min_unit_value": 100,
+    "min_unit_name": "гяпик"
+  },
+  {
+    "currency_code": "gel",
+    "name": "лари",
+    "min_unit_value": 100,
+    "min_unit_name": "тетри"
   }
 ]
