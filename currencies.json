@@ -84,10 +84,10 @@
     "min_unit_name": "nanoton"
   },
   {
-    "currency_code": "gram",
-    "name": "gram",
+    "currency_code": "ton",
+    "name": "ton",
     "min_unit_value": 1000000000,
-    "min_unit_name": "nanogram"
+    "min_unit_name": "nanoton"
   },
   {
     "currency_code": "azn",
